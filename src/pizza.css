@@ -1,0 +1,11 @@
+.pizza{
+    background-color: salmon;
+    width: 200px;
+    height: auto;
+    margin: 5px;
+    border: 1px dotted lightblue;
+    padding: 10px;
+    color: rgb(70, 0, 92);
+    box-shadow: 2px 3px 3px slategrey;
+    display: inline-block;
+}
